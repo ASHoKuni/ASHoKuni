@@ -11,8 +11,9 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Software Developer` 
-- :nerd_face: Always `learning new things`
+- Hi, I’m Ashok Dhokare.
+- I am a `Software Developer` 
+- Always `learning new things`
 
 <br>
 
