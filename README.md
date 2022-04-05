@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - Hi, I’m Ashok Dhokare.
-- I am a `Software Developer` 
+- I am a working as `Sr. Software Developer` in BMORE IT SOLUTIONS LLP. Pune
 - Always `learning new things`
 
 <br>
@@ -62,6 +62,7 @@
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+   
 </p>
 
 ### 👉 Frontend Development
