@@ -14,6 +14,9 @@
 - Hi, I’m Ashok Dhokare.
 - I am a working as `Sr. Software Developer` in BMORE IT SOLUTIONS LLP. Pune
 - Always `learning new things`
+- Shifting WEB2.0 to WEB3.0
+- Interset Blockchain,NFT,DEFI,Smart Contract
+
 
 <br>
 
