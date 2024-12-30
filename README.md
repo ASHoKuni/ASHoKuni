@@ -12,10 +12,10 @@
 
 ## :sassy_man:  About me
 - Hi, I’m Ashok Dhokare.
-- I am a working as `Sr. Software Developer` in BMORE IT SOLUTIONS LLP. Pune
+- I am a working as `Technical Lead / Sr. Software Developer` in Digialpha pvt. Pune
 - Always `learning new things`
 - Shifting WEB2.0 to WEB3.0
-- Interset Blockchain,NFT,DEFI,Smart Contract
+- Interset Blockchain,NFT,DEFI,Smart Contract, AI
 
 
 <br>
